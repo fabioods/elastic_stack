@@ -9,21 +9,37 @@
 
 ## Usage
 
-```sh
-docker-compose up -d
-```
+- Star docker
+
+- Create docker network called observability
+
+  ```sh
+  docker network create observability
+  ```
+
+- Into root folder execute
+
+  ```sh
+  docker-compose up -d
+  ```
+
+- Into app folder execute
+  ```sh
+  docker-compose up -d
+  ```
 
 ## Author
 
 👤 **Fábio dos santos**
 
-* Twitter: [@fabioods](https://twitter.com/fabioods)
-* Github: [@fabioods](https://github.com/fabioods)
-* LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
+- Twitter: [@fabioods](https://twitter.com/fabioods)
+- Github: [@fabioods](https://github.com/fabioods)
+- LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
