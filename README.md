@@ -24,8 +24,15 @@
   ```
 
 - Into app folder execute
+
   ```sh
   docker-compose up -d
+  ```
+
+- Access to app
+
+  ```sh
+  http://localhost:5601/app/observability/overview
   ```
 
 ## Author
