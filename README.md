@@ -35,6 +35,12 @@
   http://localhost:5601/app/observability/overview
   ```
 
+- Access to python app
+
+  ```sh
+  http://localhost:8000/exemplo/
+  ```
+
 ## Author
 
 👤 **Fábio dos santos**
